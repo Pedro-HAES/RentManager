@@ -1,0 +1,1 @@
+D:\RepositorioM\RentManager\rentmanager.client\obj\Debug\rentmanager.client.esproj.CoreCompileInputs.cache

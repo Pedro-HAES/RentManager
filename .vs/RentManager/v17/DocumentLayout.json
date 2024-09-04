@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RepositorioM\\RentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|d:\\repositoriom\\rentmanager\\rentmanager.server\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|solutionrelative:rentmanager.server\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|d:\\repositoriom\\rentmanager\\rentmanager.server\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|solutionrelative:rentmanager.server\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|d:\\repositoriom\\rentmanager\\rentmanager.server\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|solutionrelative:rentmanager.server\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|d:\\repositoriom\\rentmanager\\rentmanager.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|solutionrelative:rentmanager.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|d:\\repositoriom\\rentmanager\\rentmanager.server\\enumeradores\\enumestadopropriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|solutionrelative:rentmanager.server\\enumeradores\\enumestadopropriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|d:\\repositoriom\\rentmanager\\rentmanager.server\\enumeradores\\enumtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}|RentManager.Server\\RentManager.Server.csproj|solutionrelative:rentmanager.server\\enumeradores\\enumtipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "RentManager.Server\\Models\\Pagamento.cs",
+              "ToolTip": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Pagamento.cs",
+              "RelativeToolTip": "RentManager.Server\\Models\\Pagamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:23:53.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Contrato.cs",
+              "RelativeDocumentMoniker": "RentManager.Server\\Models\\Contrato.cs",
+              "ToolTip": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Contrato.cs",
+              "RelativeToolTip": "RentManager.Server\\Models\\Contrato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:23:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnumEstadoPropriedade.cs",
+              "DocumentMoniker": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Enumeradores\\EnumEstadoPropriedade.cs",
+              "RelativeDocumentMoniker": "RentManager.Server\\Enumeradores\\EnumEstadoPropriedade.cs",
+              "ToolTip": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Enumeradores\\EnumEstadoPropriedade.cs",
+              "RelativeToolTip": "RentManager.Server\\Enumeradores\\EnumEstadoPropriedade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:22:28.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imovel.cs",
+              "DocumentMoniker": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Imovel.cs",
+              "RelativeDocumentMoniker": "RentManager.Server\\Models\\Imovel.cs",
+              "ToolTip": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Imovel.cs",
+              "RelativeToolTip": "RentManager.Server\\Models\\Imovel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:22:02.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnumTipoUsuario.cs",
+              "DocumentMoniker": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Enumeradores\\EnumTipoUsuario.cs",
+              "RelativeDocumentMoniker": "RentManager.Server\\Enumeradores\\EnumTipoUsuario.cs",
+              "ToolTip": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Enumeradores\\EnumTipoUsuario.cs",
+              "RelativeToolTip": "RentManager.Server\\Enumeradores\\EnumTipoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:21:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "RentManager.Server\\Models\\Usuario.cs",
+              "ToolTip": "D:\\RepositorioM\\RentManager\\RentManager.Server\\Models\\Usuario.cs",
+              "RelativeToolTip": "RentManager.Server\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:20:38.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

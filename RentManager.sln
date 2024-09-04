@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentManager.Server", "RentManager.Server\RentManager.Server.csproj", "{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "rentmanager.client", "rentmanager.client\rentmanager.client.esproj", "{5632BF46-82CE-4A09-9FC1-7750FAB90559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC35E43-7A85-4D49-80AE-AF1E11190ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5632BF46-82CE-4A09-9FC1-7750FAB90559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5632BF46-82CE-4A09-9FC1-7750FAB90559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5632BF46-82CE-4A09-9FC1-7750FAB90559}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5632BF46-82CE-4A09-9FC1-7750FAB90559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5632BF46-82CE-4A09-9FC1-7750FAB90559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5632BF46-82CE-4A09-9FC1-7750FAB90559}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {951C0DEF-A8F5-450A-B527-FF4FA1DB664D}
+	EndGlobalSection
+EndGlobal
