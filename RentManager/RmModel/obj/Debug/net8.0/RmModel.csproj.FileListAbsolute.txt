@@ -1,0 +1,11 @@
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\RmModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\RmModel.AssemblyInfoInputs.cache
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\RmModel.AssemblyInfo.cs
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\RmModel.csproj.CoreCompileInputs.cache
+D:\Rent\RentManager\RmModel\bin\Debug\net8.0\RmModel.deps.json
+D:\Rent\RentManager\RmModel\bin\Debug\net8.0\RmModel.dll
+D:\Rent\RentManager\RmModel\bin\Debug\net8.0\RmModel.pdb
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\RmModel.dll
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\refint\RmModel.dll
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\RmModel.pdb
+D:\Rent\RentManager\RmModel\obj\Debug\net8.0\ref\RmModel.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rent\\RentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3846CB59-9636-4507-B762-E178876D40D4}|RmRepository\\RmRepository.csproj|d:\\rent\\rentmanager\\rmrepository\\repositorios\\pagamentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3846CB59-9636-4507-B762-E178876D40D4}|RmRepository\\RmRepository.csproj|solutionrelative:rmrepository\\repositorios\\pagamentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3846CB59-9636-4507-B762-E178876D40D4}|RmRepository\\RmRepository.csproj|d:\\rent\\rentmanager\\rmrepository\\interfaces\\ipagamentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3846CB59-9636-4507-B762-E178876D40D4}|RmRepository\\RmRepository.csproj|solutionrelative:rmrepository\\interfaces\\ipagamentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF90564-8FF6-41F7-AC35-B164FC7D1C19}|RmModel\\RmModel.csproj|d:\\rent\\rentmanager\\rmmodel\\entidades\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF90564-8FF6-41F7-AC35-B164FC7D1C19}|RmModel\\RmModel.csproj|solutionrelative:rmmodel\\entidades\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF90564-8FF6-41F7-AC35-B164FC7D1C19}|RmModel\\RmModel.csproj|d:\\rent\\rentmanager\\rmmodel\\entidades\\statuspagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF90564-8FF6-41F7-AC35-B164FC7D1C19}|RmModel\\RmModel.csproj|solutionrelative:rmmodel\\entidades\\statuspagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF90564-8FF6-41F7-AC35-B164FC7D1C19}|RmModel\\RmModel.csproj|d:\\rent\\rentmanager\\rmmodel\\entidades\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF90564-8FF6-41F7-AC35-B164FC7D1C19}|RmModel\\RmModel.csproj|solutionrelative:rmmodel\\entidades\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1580E0-5787-4390-B22D-A93F107C04C9}|RmExcecoes\\RmExcecoes.csproj|d:\\rent\\rentmanager\\rmexcecoes\\rmexcecoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1580E0-5787-4390-B22D-A93F107C04C9}|RmExcecoes\\RmExcecoes.csproj|solutionrelative:rmexcecoes\\rmexcecoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1580E0-5787-4390-B22D-A93F107C04C9}|RmExcecoes\\RmExcecoes.csproj|d:\\rent\\rentmanager\\rmexcecoes\\rmexcecoesnaoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1580E0-5787-4390-B22D-A93F107C04C9}|RmExcecoes\\RmExcecoes.csproj|solutionrelative:rmexcecoes\\rmexcecoesnaoencontrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPagamentoRepositorio.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmRepository\\Interfaces\\IPagamentoRepositorio.cs",
+              "RelativeDocumentMoniker": "RmRepository\\Interfaces\\IPagamentoRepositorio.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmRepository\\Interfaces\\IPagamentoRepositorio.cs",
+              "RelativeToolTip": "RmRepository\\Interfaces\\IPagamentoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:01:17.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagamentoRepositorio.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmRepository\\Repositorios\\PagamentoRepositorio.cs",
+              "RelativeDocumentMoniker": "RmRepository\\Repositorios\\PagamentoRepositorio.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmRepository\\Repositorios\\PagamentoRepositorio.cs",
+              "RelativeToolTip": "RmRepository\\Repositorios\\PagamentoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:01:05.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmModel\\Entidades\\Pagamento.cs",
+              "RelativeDocumentMoniker": "RmModel\\Entidades\\Pagamento.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmModel\\Entidades\\Pagamento.cs",
+              "RelativeToolTip": "RmModel\\Entidades\\Pagamento.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:00:03.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmModel\\Entidades\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "RmModel\\Entidades\\TipoUsuario.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmModel\\Entidades\\TipoUsuario.cs",
+              "RelativeToolTip": "RmModel\\Entidades\\TipoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:59:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusPagamento.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmModel\\Entidades\\StatusPagamento.cs",
+              "RelativeDocumentMoniker": "RmModel\\Entidades\\StatusPagamento.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmModel\\Entidades\\StatusPagamento.cs",
+              "RelativeToolTip": "RmModel\\Entidades\\StatusPagamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:59:21.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RmExcecoesNaoEncontrada.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmExcecoes\\RmExcecoesNaoEncontrada.cs",
+              "RelativeDocumentMoniker": "RmExcecoes\\RmExcecoesNaoEncontrada.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmExcecoes\\RmExcecoesNaoEncontrada.cs",
+              "RelativeToolTip": "RmExcecoes\\RmExcecoesNaoEncontrada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:43:36.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RmExcecoes.cs",
+              "DocumentMoniker": "D:\\Rent\\RentManager\\RmExcecoes\\RmExcecoes.cs",
+              "RelativeDocumentMoniker": "RmExcecoes\\RmExcecoes.cs",
+              "ToolTip": "D:\\Rent\\RentManager\\RmExcecoes\\RmExcecoes.cs",
+              "RelativeToolTip": "RmExcecoes\\RmExcecoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:40:37.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.csproj.AssemblyReference.cache
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.AssemblyInfoInputs.cache
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.AssemblyInfo.cs
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.csproj.CoreCompileInputs.cache
+D:\Rent\RentManager\RmRepository\bin\Debug\net8.0\RmRepository.deps.json
+D:\Rent\RentManager\RmRepository\bin\Debug\net8.0\RmRepository.dll
+D:\Rent\RentManager\RmRepository\bin\Debug\net8.0\RmRepository.pdb
+D:\Rent\RentManager\RmRepository\bin\Debug\net8.0\RmModel.dll
+D:\Rent\RentManager\RmRepository\bin\Debug\net8.0\RmModel.pdb
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmReposi.18106F91.Up2Date
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.dll
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\refint\RmRepository.dll
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\RmRepository.pdb
+D:\Rent\RentManager\RmRepository\obj\Debug\net8.0\ref\RmRepository.dll
